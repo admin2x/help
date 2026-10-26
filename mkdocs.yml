@@ -1,0 +1,65 @@
+site_name: Admin2x Help Center
+site_url: https://help.admin2x.com/
+site_description: Plain-language cybersecurity guides for friends, family, and neighbors of Admin2x, LLC.
+copyright: Copyright &copy; 2026 Admin2x, LLC
+
+repo_url: ""
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue grey
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.view
+    - toc.integrate
+
+plugins:
+  - search
+
+exclude_docs: |
+  _includes/
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.snippets:
+      base_path: docs
+  - pymdownx.details
+  - pymdownx.superfences
+
+extra:
+  generator: false
+
+nav:
+  - Home: index.md
+  - Guides:
+      - Stop spam and political text messages: articles/stop-spam-texts.md
+  - How to get help: how-to-get-help.md
