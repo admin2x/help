@@ -11,8 +11,9 @@ If you were sent a link to this site by Admin2x support, start with the guide yo
 ## Guides
 
 - [Stop spam and political text messages](articles/stop-spam-texts.md)
+- [Why you must use a password manager](articles/password-manager.md)
 
-More guides are on the way, covering password managers, multi-factor authentication, password reuse, passkeys, keeping your devices updated, and recognizing phishing and scams.
+More guides are on the way, covering multi-factor authentication, password reuse, passkeys, keeping your devices updated, and recognizing phishing and scams.
 
 ## Need help with something not covered here?
 
