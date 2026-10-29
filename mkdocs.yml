@@ -65,4 +65,5 @@ nav:
       - Why you must use a password manager: articles/password-manager.md
       - Reusing passwords means you will get hacked: articles/password-reuse.md
       - Turn on two-factor authentication: articles/two-factor-authentication.md
+      - What is a passkey and why you should use them: articles/passkeys.md
   - How to get help: how-to-get-help.md

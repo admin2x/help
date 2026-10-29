@@ -14,8 +14,9 @@ If you were sent a link to this site by Admin2x support, start with the guide yo
 - [Why you must use a password manager](articles/password-manager.md)
 - [Reusing passwords means you will get hacked](articles/password-reuse.md)
 - [Turn on two-factor authentication](articles/two-factor-authentication.md)
+- [What is a passkey and why you should use them](articles/passkeys.md)
 
-More guides are on the way, covering passkeys, keeping your devices updated, and recognizing phishing and scams.
+More guides are on the way, covering keeping your devices updated, and recognizing phishing and scams.
 
 ## Need help with something not covered here?
 

@@ -20,7 +20,7 @@ Turn it on for your main email account, your Apple or Google account, your bank,
 
 Most accounts offer several ways to do the second step, and they are not equally good. From best to worst:
 
-A **passkey or a device prompt** means the account recognizes your phone itself. You unlock the phone with your face or fingerprint, tap Yes, and you are in. There is no code to type and nothing for a scammer to trick you into reading out loud. Google calls its version "Google prompt," Apple's trusted-device system works the same way, and passkeys are now offered by most large sites. If an account offers this, use it. A separate guide on this site covers passkeys in detail.
+A **passkey or a device prompt** means the account recognizes your phone itself. You unlock the phone with your face or fingerprint, tap Yes, and you are in. There is no code to type and nothing for a scammer to trick you into reading out loud. Google calls its version "Google prompt," Apple's trusted-device system works the same way, and passkeys are now offered by most large sites. If an account offers this, use it. [What is a passkey and why you should use them](passkeys.md) covers passkeys in detail.
 
 An **authenticator app** shows a six-digit code that changes every thirty seconds. You type the current code when you log in. It works with no cell service and no internet, and it cannot be intercepted the way a text message can. This is the right choice for any account that does not offer a passkey or prompt.
 
