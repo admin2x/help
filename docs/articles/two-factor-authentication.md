@@ -82,7 +82,7 @@ Print the codes or write them down, and keep them with the paper that holds your
 
 ## What two-factor authentication does not protect against
 
-It does not protect you from reading a code to someone who asks for it. The most common attack against two-factor accounts today is not technical at all: someone calls or texts claiming to be from your bank, Amazon, or Apple, says there is suspicious activity, and asks you to confirm the six-digit code that was "just sent to you." The code was sent because the attacker is logging in as you at that moment, and reading it to them completes their login. No legitimate company will ever ask you to read a verification code to them, by phone or by text. If anyone does, hang up. A guide on this site covering phishing and scams goes into this further.
+It does not protect you from reading a code to someone who asks for it. The most common attack against two-factor accounts today is not technical at all: someone calls or texts claiming to be from your bank, Amazon, or Apple, says there is suspicious activity, and asks you to confirm the six-digit code that was "just sent to you." The code was sent because the attacker is logging in as you at that moment, and reading it to them completes their login. No legitimate company will ever ask you to read a verification code to them, by phone or by text. If anyone does, hang up. [Recognize and stop phishing and scams](phishing-and-scams.md) goes into this further.
 
 It also does not help if the second factor is a text message and your number has been swapped, which is why Step 4 matters, and it does not help an account you have not turned it on for, which is why the four accounts above come first.
 

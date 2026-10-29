@@ -16,8 +16,7 @@ If you were sent a link to this site by Admin2x support, start with the guide yo
 - [Turn on two-factor authentication](articles/two-factor-authentication.md)
 - [What is a passkey and why you should use them](articles/passkeys.md)
 - [Keep your Mac, iPhone, and apps updated](articles/software-updates.md)
-
-One more guide is on the way, covering how to recognize phishing and scams.
+- [Recognize and stop phishing and scams](articles/phishing-and-scams.md)
 
 ## Need help with something not covered here?
 
