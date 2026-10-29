@@ -74,7 +74,7 @@ Third, set up a password manager by following [Why you must use a password manag
 
 Fourth, once your old passwords are in the manager, let it find the rest. Apple Passwords lists reused and leaked passwords under its [Security section](https://support.apple.com/guide/iphone/iphd5d8daf4f/ios){target=_blank}, Google's [Password Checkup](https://support.google.com/accounts/answer/9457609){target=_blank} does the same, and the paid tiers of Bitwarden and 1Password include equivalent reports. Change a few at a time whenever you happen to log in somewhere. Within a month or two, every password you use regularly is unique.
 
-Fifth, turn on two-factor authentication for the four accounts above. A guide on this site covers that step in detail.
+Fifth, turn on two-factor authentication for the four accounts above. [Turn on two-factor authentication](two-factor-authentication.md) covers that step in detail.
 
 If you receive a breach notification after all this is done, the Federal Trade Commission's [advice for breach victims](https://consumer.ftc.gov/consumer-alerts/2022/10/have-you-been-affected-data-breach-read){target=_blank} applies: change that one password, confirm two-factor is on, and check what else was exposed. With unique passwords, a breach at one company is a five-minute inconvenience rather than an emergency.
 

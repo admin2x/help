@@ -108,7 +108,7 @@ The manager now holds the keys to everything, so it should be the most protected
 2. Choose **Authenticator app** and follow the prompts. If you do not already have an authenticator app, the Bitwarden app itself can be one, as can the Google Authenticator or Microsoft Authenticator apps.
 3. Click **View recovery code**, write that code on the same paper as your master password, and store it with it. The recovery code is how you get back in if you lose your phone.
 
-Bitwarden's instructions and video: [Set up two-step login](https://bitwarden.com/help/setup-two-step-login/){target=_blank}. A separate guide on this site covers two-factor authentication for all your other accounts.
+Bitwarden's instructions and video: [Set up two-step login](https://bitwarden.com/help/setup-two-step-login/){target=_blank}. [Turn on two-factor authentication](two-factor-authentication.md) covers doing the same for all your other accounts.
 
 ## Step 5: Replace the worst passwords first
 
