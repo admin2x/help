@@ -144,4 +144,4 @@ Every link in this article goes to the manufacturer, the carrier, or a US govern
 4. Google: [Report spam in Google Messages](https://support.google.com/messages/answer/9061432){target=_blank}.
 5. Samsung: [Block a phone number or contact on your Galaxy phone](https://www.samsung.com/us/support/answer/ANS00062352/){target=_blank}.
 
---8<-- "_includes/still-need-help.md"
+--8<-- "_includes/site-footer.md"

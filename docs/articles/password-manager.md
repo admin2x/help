@@ -139,4 +139,4 @@ Do not pay for a password manager "security suite" bundled with antivirus or a V
 5. Apple: [Set up iCloud Keychain](https://support.apple.com/en-us/109016){target=_blank}.
 6. Google: [Get started with Google Password Manager](https://support.google.com/accounts/answer/6208650){target=_blank}.
 
---8<-- "_includes/still-need-help.md"
+--8<-- "_includes/site-footer.md"

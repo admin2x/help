@@ -50,7 +50,7 @@ You are browsing the web and a page suddenly fills your screen, maybe with a lou
 
 Every part of this is fake. Apple and Microsoft do not put phone numbers in warning pop-ups and do not call you about problems with your computer. If you call the number, you reach a scammer who will ask you to install a remote-control app so they can "fix" the problem, then show you fake evidence of infection, and then ask for payment, often by gift card or cryptocurrency, or ask you to log in to your bank so they can "process a refund." The FTC's guide [How To Spot, Avoid, and Report Tech Support Scams](https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams){target=_blank} walks through the whole script.
 
-**What to do:** do not call the number. Close the browser tab or quit the browser entirely (on a Mac, press **Command-Q** while the browser is in front; if it will not quit, choose **Force Quit** from the Apple menu). The scary page cannot do anything on its own; it only works if you call. If you are worried something is actually wrong with your computer, open a ticket. A related trick is a pop-up telling you your browser or Mac "needs an update"; [the updates guide](software-updates.md#what-not-to-bother-with-and-what-to-avoid) explains why that is always fake.
+**What to do:** do not call the number. Close the browser tab or quit the browser entirely (on a Mac, press **Command-Q** while the browser is in front; if it will not quit, choose **Force Quit** from the Apple menu). The scary page cannot do anything on its own; it only works if you call. If you are worried something is actually wrong with your computer, contact Apple Support yourself, through the Apple Support app or Apple's website, never through a number shown in a pop-up. A related trick is a pop-up telling you your browser or Mac "needs an update"; [the updates guide](software-updates.md#what-not-to-bother-with-and-what-to-avoid) explains why that is always fake.
 
 ### The family emergency call
 
@@ -98,7 +98,7 @@ If you paid with a **credit or debit card**, call the card issuer and dispute th
 
 ### Step 2: If you gave someone control of your computer
 
-Disconnect the computer from the internet right away: turn off Wi-Fi, and unplug the network cable if there is one. Do not use that computer to log in to your bank, email, or anything else until it has been checked. Then, from a different device you trust, such as your phone, change the passwords for your email and bank accounts and confirm two-factor authentication is on, as described in [the two-factor guide](two-factor-authentication.md). Then open a ticket with the subject line URGENT, as described in [How to get help](../how-to-get-help.md).
+Disconnect the computer from the internet right away: turn off Wi-Fi, and unplug the network cable if there is one. Do not use that computer to log in to your bank, email, or anything else until it has been checked. Then, from a different device you trust, such as your phone, change the passwords for your email and bank accounts and confirm two-factor authentication is on, as described in [the two-factor guide](two-factor-authentication.md). Then get the computer checked by someone you trust: contact Apple Support yourself, through the Apple Support app or Apple's website, or take it to an Apple Store or Apple Authorized Service Provider, and tell them someone had remote control of it.
 
 ### Step 3: If you gave out a password or verification code
 
@@ -116,7 +116,7 @@ Report the scam to the FTC at [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/
 
 After people lose money, they are often contacted by someone offering to recover it, for a fee: a "recovery service," a lawyer, a government agency, or a "crypto tracing" firm. These are scammers too, often the same ones, working from a list of people who have already paid once. No legitimate agency charges you to recover stolen money. Ignore anyone who contacts you offering this.
 
-If you are 50 or older, or helping someone who is, the AARP Fraud Watch Network runs a free helpline at 877-908-3360.
+The AARP Fraud Watch Network runs a free helpline at 877-908-3360 that anyone can call to talk through what happened and what to do next; you do not need to be an AARP member.
 
 ## Set up your family before it happens
 
@@ -134,4 +134,4 @@ A scam that gets your password does far less damage if that password is not used
 4. Apple: [Recognize and avoid social engineering schemes including phishing messages, phony support calls, and other scams](https://support.apple.com/en-us/102568){target=_blank}.
 5. Reporting and recovery: [ReportFraud.ftc.gov](https://reportfraud.ftc.gov/){target=_blank}, [ic3.gov](https://www.ic3.gov/){target=_blank}, and [IdentityTheft.gov](https://www.identitytheft.gov/){target=_blank}.
 
---8<-- "_includes/still-need-help.md"
+--8<-- "_includes/site-footer.md"

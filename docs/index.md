@@ -1,12 +1,12 @@
 ---
-title: Admin2x Help Center
+title: Home
 ---
 
-# Admin2x Help Center
+# Admin2x Security Basics
 
-Plain-language guides to the cybersecurity basics that prevent most of the emergencies we get asked to fix. Each guide tells you what the problem is in a paragraph, then gets straight into what to do about it, step by step, with links to the official instructions from Apple, Google, your carrier, or the relevant government agency.
+Plain-language guides to the everyday cybersecurity habits that prevent most hacked accounts, drained bank accounts, and infected computers. Each guide tells you what the problem is in a paragraph, then gets straight into what to do about it, step by step, with links to the official instructions from Apple, Google, your carrier, or the relevant government agency.
 
-If you were sent a link to this site by Admin2x support, start with the guide you were pointed to and follow its steps before replying to your ticket.
+If someone sent you a link to one of these guides, start there and follow its steps. If something is happening to you right now, start with [Recognize and stop phishing and scams](articles/phishing-and-scams.md).
 
 ## Guides
 
@@ -18,6 +18,6 @@ If you were sent a link to this site by Admin2x support, start with the guide yo
 - [Keep your Mac, iPhone, and apps updated](articles/software-updates.md)
 - [Recognize and stop phishing and scams](articles/phishing-and-scams.md)
 
-## Need help with something not covered here?
+## About this site
 
-See [How to get help](how-to-get-help.md).
+These guides are published by Admin2x, LLC, an AI security consultancy, as a free public resource. Admin2x does not provide personal tech support or incident response. [What is this website?](about.md) explains why we publish them, and where to go if you need help right now.

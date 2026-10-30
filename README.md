@@ -1,6 +1,6 @@
-# Admin2x Help Center
+# Admin2x Security Basics
 
-Source for https://help.admin2x.com, the consumer-level cybersecurity knowledge base for Admin2x, LLC support.
+Source for https://help.admin2x.com, a free collection of consumer-level cybersecurity guides published by Admin2x, LLC.
 
 Built with MkDocs and the Material theme. Articles are Markdown files under `docs/articles/`. Pushing to `main` builds and deploys the site automatically via GitHub Pages.
 
@@ -13,6 +13,6 @@ Built with MkDocs and the Material theme. Articles are Markdown files under `doc
 ## Adding an article
 
 1. Create `docs/articles/<slug>.md` with a `title` and `description` in the front matter.
-2. End it with `--8<-- "_includes/still-need-help.md"` so every article carries the same support footer.
+2. End it with `--8<-- "_includes/site-footer.md"` so every article carries the same footer.
 3. Add it to `nav:` in `mkdocs.yml` and to the list on `docs/index.md`.
 4. Commit and push to `main`.

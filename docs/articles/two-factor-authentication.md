@@ -26,7 +26,7 @@ An **authenticator app** shows a six-digit code that changes every thirty second
 
 A **text message or voice call** to your phone number is the weakest option, because your phone number can be stolen (see the carrier section below) and because scammers have gotten very good at talking people into reading a code aloud. It is still much better than nothing. If text messages are the only option an account offers, as is true of many banks, turn it on anyway.
 
-A **hardware security key**, a small USB or NFC device, is the strongest option of all and is what security professionals use. It is more than most people need, and it is not covered here. If you handle large sums of money or are a likely target for some other reason, open a ticket and ask.
+A **hardware security key**, a small USB or NFC device, is the strongest option of all and is what security professionals use. It is more than most people need, and it is not covered here. If you handle large sums of money or are a likely target for some other reason, it is worth looking into.
 
 ## Where to keep your authenticator codes
 
@@ -105,4 +105,4 @@ It also does not help if the second factor is a text message and your number has
 5. Microsoft: [How to use two-step verification with your Microsoft account](https://support.microsoft.com/en-us/help/12408){target=_blank}.
 6. Carriers: Verizon [SIM Swapping](https://www.verizon.com/about/privacy/account-security/sim-swapping){target=_blank}, AT&T [Wireless Account Lock](https://www.att.com/support/article/wireless/000102016){target=_blank}, T-Mobile [Protect your T-Mobile account from fraud](https://www.t-mobile.com/support/plans-features/help-with-t-mobile-account-fraud){target=_blank}.
 
---8<-- "_includes/still-need-help.md"
+--8<-- "_includes/site-footer.md"

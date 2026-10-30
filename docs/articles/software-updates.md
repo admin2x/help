@@ -14,7 +14,7 @@ Software updates are mostly security fixes. When Apple, Google, or any other com
 
 So the job is simple. Turn on automatic updates on your Mac and your iPhone, turn on automatic updates for your apps, and restart your devices once in a while so the updates actually take effect. That takes about ten minutes, once.
 
-The harder part of this guide is for people with older Macs. If your Mac is running an older version of macOS because it cannot run a newer one, or because you are worried a newer one will make it slower, read [the section on older Macs](#if-your-mac-is-old) carefully. That situation is the most common reason a "my computer is acting strange" ticket ends with the only real fix being a new computer.
+The harder part of this guide is for people with older Macs. If your Mac is running an older version of macOS because it cannot run a newer one, or because you are worried a newer one will make it slower, read [the section on older Macs](#if-your-mac-is-old) carefully. An old Mac on an old version of macOS is one of the most common situations where a "my computer is acting strange" problem turns out to have no real fix except a new computer.
 
 ## Step 1: Turn on automatic updates on your Mac
 
@@ -102,7 +102,7 @@ The same logic applies with fewer complications. The current iOS 27 runs on the 
 
 ## If you use Windows
 
-Admin2x support does not cover Windows computers. If you use one, the same principles apply, and Microsoft is the right source of help. The one thing to know is that Microsoft ended support for Windows 10 on October 14, 2025, which means a Windows 10 computer that is not enrolled in Microsoft's paid Extended Security Updates program is no longer receiving security fixes. Microsoft's explanation and options are at [Windows 10 support has ended on October 14, 2025](https://support.microsoft.com/kb/5056949){target=_blank}.
+This site covers Macs, iPhones, and iPads, not Windows. If you use a Windows computer, the same principles apply, and Microsoft is the right source of help. The one thing to know is that Microsoft ended support for Windows 10 on October 14, 2025, which means a Windows 10 computer that is not enrolled in Microsoft's paid Extended Security Updates program is no longer receiving security fixes. Microsoft's explanation and options are at [Windows 10 support has ended on October 14, 2025](https://support.microsoft.com/kb/5056949){target=_blank}.
 
 ## What not to bother with, and what to avoid
 
@@ -120,4 +120,4 @@ Do not delay updates to avoid "bugs." Occasionally an update has a problem, and 
 4. Google: [Update Google Chrome](https://support.google.com/chrome/answer/95414){target=_blank} and [Chrome browser system requirements](https://support.google.com/chrome/a/answer/7100626){target=_blank}.
 5. Microsoft: [Windows 10 support has ended on October 14, 2025](https://support.microsoft.com/kb/5056949){target=_blank}.
 
---8<-- "_includes/still-need-help.md"
+--8<-- "_includes/site-footer.md"

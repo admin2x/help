@@ -99,4 +99,4 @@ Read [the password manager guide](password-manager.md), do Steps 1 and 2 today, 
 5. Google: [Change compromised passwords in your Google Account](https://support.google.com/accounts/answer/9457609){target=_blank}.
 6. Apple: [Change weak or compromised passwords on iPhone](https://support.apple.com/guide/iphone/iphd5d8daf4f/ios){target=_blank}.
 
---8<-- "_includes/still-need-help.md"
+--8<-- "_includes/site-footer.md"

@@ -1,6 +1,6 @@
-site_name: Admin2x Help Center
+site_name: Admin2x Security Basics
 site_url: https://help.admin2x.com/
-site_description: Plain-language cybersecurity guides for friends, family, and neighbors of Admin2x, LLC.
+site_description: Free, plain-language guides to everyday cybersecurity habits, published by Admin2x, LLC.
 copyright: Copyright &copy; 2026 Admin2x, LLC
 
 repo_url: ""
@@ -68,4 +68,4 @@ nav:
       - What is a passkey and why you should use them: articles/passkeys.md
       - Keep your Mac, iPhone, and apps updated: articles/software-updates.md
       - Recognize and stop phishing and scams: articles/phishing-and-scams.md
-  - How to get help: how-to-get-help.md
+  - "What is this website?": about.md

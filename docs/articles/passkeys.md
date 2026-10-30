@@ -100,7 +100,7 @@ For the next few years most sites will keep your password as a fallback alongsid
 
 ## What not to bother with
 
-You do not need a hardware security key to use passkeys; your phone is the hardware. Security keys are the right tool for people who are specifically targeted, and if that describes you, open a ticket. You also do not need to go back and create passkeys for every account you own this week. The accounts above, plus anything with your money in it, are enough; let the rest happen as sites offer.
+You do not need a hardware security key to use passkeys; your phone is the hardware. Security keys are the right tool for people who are specifically targeted by attackers. You also do not need to go back and create passkeys for every account you own this week. The accounts above, plus anything with your money in it, are enough; let the rest happen as sites offer.
 
 ## Trusted references
 
@@ -111,4 +111,4 @@ You do not need a hardware security key to use passkeys; your phone is the hardw
 5. Bitwarden: [Autofill passkeys](https://bitwarden.com/help/storing-passkeys/){target=_blank}. 1Password: [Save and sign in with passkeys](https://support.1password.com/save-use-passkeys/){target=_blank}.
 6. Amazon: [Passwordless sign-in with passkeys](https://www.aboutamazon.com/news/retail/amazon-passwordless-sign-in-passkey){target=_blank}. PayPal: [What is a passkey](https://www.paypal.com/us/cshelp/article/what-is-a-passkey-help997){target=_blank}.
 
---8<-- "_includes/still-need-help.md"
+--8<-- "_includes/site-footer.md"
