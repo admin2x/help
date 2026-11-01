@@ -5,7 +5,7 @@ description: Plain-language explanation of passkeys, why they are safer than pas
 
 # What is a passkey, and why you should use them
 
-!!! info "Last reviewed October 29, 2026"
+!!! info "Last reviewed November 1, 2026"
     This guide assumes you have already set up a password manager and turned on two-factor authentication for your main accounts. If not, start with [Why you must use a password manager](password-manager.md) and [Turn on two-factor authentication](two-factor-authentication.md); passkeys build on both.
 
 ## The short version
@@ -34,7 +34,7 @@ If you use **Google Password Manager**, passkeys are stored there and synced to 
 
 If you use **Bitwarden** or **1Password**, their browser extensions and phone apps store passkeys as part of the login entry for each site, synced everywhere you use the manager, and this is the choice that works across an iPhone and a Windows PC, or an Android phone and a Mac. Bitwarden's instructions: [Autofill passkeys](https://bitwarden.com/help/storing-passkeys/){target=_blank}. 1Password's instructions: [Save and sign in with passkeys in your browser](https://support.1password.com/save-use-passkeys/){target=_blank}.
 
-When a website offers to create a passkey, your phone or browser will ask where to save it, and the options above appear in that list. Pick the same one every time. A passkey saved to the wrong place is not lost, but it will not show up on your other devices, which is confusing for no good reason.
+When a website offers to create a passkey, your phone or browser will ask where to save it, and the options above appear in that list. On a Windows PC the list will also offer to save the passkey on the PC itself, using Windows Hello; that works, but a passkey saved that way lives only on that one computer and does not sync anywhere, so choose your password manager instead. Pick the same one every time. A passkey saved to the wrong place is not lost, but it will not show up on your other devices, which is confusing for no good reason.
 
 ## Step 1: Your Google Account
 

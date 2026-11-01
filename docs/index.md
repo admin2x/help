@@ -15,7 +15,7 @@ If someone sent you a link to one of these guides, start there and follow its st
 - [Reusing passwords means you will get hacked](articles/password-reuse.md)
 - [Turn on two-factor authentication](articles/two-factor-authentication.md)
 - [What is a passkey and why you should use them](articles/passkeys.md)
-- [Keep your Mac, iPhone, and apps updated](articles/software-updates.md)
+- [Keep your computer, phone, and apps updated](articles/software-updates.md)
 - [Recognize and stop phishing and scams](articles/phishing-and-scams.md)
 
 ## About this site

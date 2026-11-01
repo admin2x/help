@@ -23,7 +23,7 @@ There is also a professional reason. Much of the damage seen in security work, a
 
 The guides are written to be as vendor-neutral as practical. Where one names a specific product, it is because that product is a reasonable default for most people, not because anyone paid for the mention; there are no ads, no affiliate links, and nothing for sale here. Every set of steps links to the official instructions from the company or government agency involved, so you can check our advice against the source. Each guide notes when it was last reviewed, because phone and computer menus change often.
 
-The guides focus on Mac, iPhone, and iPad, with Android covered where it matters. They are written for people in the United States, so phone carriers, reporting agencies, and laws mentioned are American ones.
+The guides cover Mac and Windows computers and iPhone, iPad, and Android phones, with the most detail where the steps differ most. They are written for people in the United States, so phone carriers, reporting agencies, and laws mentioned are American ones.
 
 ## What this site is not
 
